@@ -1,5 +1,4 @@
 library(dplyr)
-setwd("~/R_codes/UCI_HAR_Dataset/")
 #----------------------------------------------------
 
 # Set paths :
