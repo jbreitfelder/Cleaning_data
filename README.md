@@ -19,24 +19,31 @@ The sensor signals (accelerometer and gyroscope) were pre-processed by applying 
 ## What you will find in this repository :
 
 * run_analysis.R :
+
 The pipeline which cleans and reduces the data
 
 * CodeBook.md :
+
 Details about the "run_analysis.R" pipeline and explanations about the reduced dataset
 
 * The folders "test" and "train" :
+
 Measurements made on each subject
 
 * activity_labels.txt :
+
 List of the different activities made by the subjects
 
 * features.txt and features_info.txt :
+
 List of the different types of measurements (features) that have been undertaken (mean acceleration, max acceleration, etc..), and explanations file
 
-* Readme.txt
+* Readme.txt :
+
 Overall explanations about the experiment and the data
 
-* tidy_dataset.txt
+* tidy_dataset.txt :
+
 The final tidy table
 
 
